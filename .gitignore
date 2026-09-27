@@ -1,0 +1,6 @@
+node_modules/
+screenshots/
+cucumber-report.html
+reports/
+test-results/
+.env
